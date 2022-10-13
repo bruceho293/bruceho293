@@ -6,7 +6,7 @@ I'm ***Huan*** (He/Him)
 
 👯 Looking for collaboration on data-related projects.
 
-🌱 Fields I am interested: Backend Dev, Frontend, DBMS, VR. 
+🌱 Fields I'm interested: Backend Dev, Frontend, DBMS, VR. 
 
 ## Frontend Projects
 - [LTXP Frontend](https://github.com/bruceho293/ltxp-frontend): Frontend UI for Laptop Specs Price.
