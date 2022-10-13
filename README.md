@@ -1,8 +1,12 @@
-### Hi there 👋
-I'm Huan but you can call me Bruce (He/Him)
 
-🔭 I’m currently working on my own to learn more about frontend and backend development.<br>
-👯 I’m looking to collaborate on any projects about database systems.<br>
+### Hi there 👋
+I'm ***Huan*** (He/Him)
+
+🔭 Currently learning more about frontend and backend development.
+
+👯 Looking for collaboration on data-related projects.
+
+🌱 Fields I am interested: Backend Dev, Frontend, DBMS, VR. 
 
 ## Frontend Projects
 - [LTXP Frontend](https://github.com/bruceho293/ltxp-frontend): Frontend UI for Laptop Specs Price.
