@@ -4,7 +4,7 @@ I'm ***Huan*** (He/Him)
 
 🔭 Currently learning more about frontend and backend development.
 
-👯 Looking for collaboration on data-related projects.
+👯 Looking for collaboration on software and data projects.
 
 🌱 Fields I'm interested: Backend Dev, Frontend Dev, DBMS, VR, Game Dev
 
